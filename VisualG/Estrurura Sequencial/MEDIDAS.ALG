@@ -17,8 +17,8 @@ Inicio
   triangulo <- a * b / 2
   trapezio <- ((a + b) / 2) * c
   
-  escreval("AREA DO QUADRADO = ", quadrado:7:4)
-  escreval("AREA DO TRIANGULO = ", triangulo:7:4)
-  escreval("AREA DO TRAPEZIO = ", trapezio:7:4)
+  escreval("AREA DO QUADRADO = ", quadrado:6:4)
+  escreval("AREA DO TRIANGULO = ", triangulo:6:4)
+  escreval("AREA DO TRAPEZIO = ", trapezio:6:4)
 
 Fimalgoritmo
