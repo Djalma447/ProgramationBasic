@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611367361 source:c:\users\djalma\documents\ws-codeblocks\c++\projetos\exemplos\primeiros passos\variaveis_e_tipos_de_dados\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

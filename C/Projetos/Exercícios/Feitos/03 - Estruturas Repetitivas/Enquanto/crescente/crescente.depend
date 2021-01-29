@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610665640 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\exercícios\feitos\crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+

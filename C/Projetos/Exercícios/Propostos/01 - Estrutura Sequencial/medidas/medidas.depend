@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610861304 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\exercícios\feitos\01 - estrutura sequencial\propostos\medidas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610732789 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\exercícios\feitos\soma_impares\main.c
+	<stdio.h>
+	<stdlib.h>
+

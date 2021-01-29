@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610503809 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+

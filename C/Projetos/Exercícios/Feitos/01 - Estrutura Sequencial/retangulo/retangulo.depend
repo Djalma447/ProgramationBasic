@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610559295 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\exercícios\feitos\retangulo\main.c
+	<stdio.h>
+	<math.h>
+

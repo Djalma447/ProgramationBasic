@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610422548 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\estrutura_repita_ate\main.c
+	<stdio.h>
+	<stdlib.h>
+

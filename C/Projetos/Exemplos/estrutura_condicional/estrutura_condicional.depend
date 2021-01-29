@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610161048 source:c:\users\djalma\documents\ws-codeblocks\c\projetos\estrutura_condicional\main.c
+	<stdio.h>
+	<stdlib.h>
+
